@@ -1,0 +1,96 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "/home/not/Área de trabalho/CRIAÇÃO",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "#tilemap_packed": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "/home/not/Área de trabalho/CRIAÇÃO/PHASERVSCODE/src/assets/images/background/map.json": {
+            "scale": 2.2265625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 100.1543859649123,
+                "y": 134.06315789473686
+            }
+        },
+        "/home/not/Área de trabalho/CRIAÇÃO/PHASERVSCODE/src/assets/images/background/map.json#tilemap_packed": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map.json": {
+            "scale": 3,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 100,
+                "y": 80
+            }
+        },
+        "map.json#objetos_com_colisao": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "map.json#tilemap_packed": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "map.png": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 120.5,
+                "y": 47.5
+            }
+        },
+        "map.png#tilemap_packed": {
+            "scaleInDock": 3
+        },
+        "map.tmj": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 120.5,
+                "y": 47.5
+            }
+        },
+        "map.tmj#tilemap_packed": {
+            "scaleInDock": 3
+        }
+    },
+    "last.exportedFilePath": "/home/not/Área de trabalho/CRIAÇÃO/mapa tail",
+    "last.imagePath": "/home/not/Área de trabalho/CRIAÇÃO/mapa tail",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 25,
+    "openFiles": [
+        "map.json",
+        "/home/not/Área de trabalho/CRIAÇÃO/PHASERVSCODE/src/assets/images/background/map.json"
+    ],
+    "project": "mapa.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "map.json",
+        "/home/not/Área de trabalho/CRIAÇÃO/PHASERVSCODE/src/assets/images/background/map.json",
+        "map.png",
+        "map.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
